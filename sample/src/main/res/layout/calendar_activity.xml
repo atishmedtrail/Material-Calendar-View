@@ -7,11 +7,12 @@
     android:orientation="vertical"
     tools:context="com.applandeo.materialcalendarsampleapp.MainActivity">
 
-    <com.applandeo.materialcalendarview.CalendarView
+    <com.medtrail.android.CalendarView
         android:id="@+id/calendarView"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
+        app:firstDayOfWeek="sunday"
         app:type="one_day_picker"
         app:eventsEnabled="true" />
 

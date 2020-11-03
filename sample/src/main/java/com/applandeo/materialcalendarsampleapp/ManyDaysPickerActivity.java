@@ -5,9 +5,9 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.widget.Button;
 import android.widget.Toast;
 
-import com.applandeo.materialcalendarview.CalendarView;
-import com.applandeo.materialcalendarview.EventDay;
-import com.applandeo.materialcalendarview.utils.DateUtils;
+import com.medtrail.android.CalendarView;
+import com.medtrail.android.EventDay;
+import com.medtrail.android.utils.DateUtils;
 
 import java.util.ArrayList;
 import java.util.Calendar;

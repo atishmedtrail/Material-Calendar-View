@@ -7,10 +7,10 @@ import android.widget.Button;
 import android.widget.Toast;
 
 import com.applandeo.materialcalendarsampleapp.utils.DrawableUtils;
-import com.applandeo.materialcalendarview.CalendarView;
-import com.applandeo.materialcalendarview.EventDay;
-import com.applandeo.materialcalendarview.exceptions.OutOfDateRangeException;
-import com.applandeo.materialcalendarview.utils.DateUtils;
+import com.medtrail.android.CalendarView;
+import com.medtrail.android.EventDay;
+import com.medtrail.android.exceptions.OutOfDateRangeException;
+import com.medtrail.android.utils.DateUtils;
 
 import java.util.ArrayList;
 import java.util.Calendar;

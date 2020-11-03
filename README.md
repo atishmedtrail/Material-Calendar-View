@@ -56,7 +56,7 @@ dependencies {
 
 To your **XML layout** file add:
 ```xml
-<com.applandeo.materialcalendarview.CalendarView
+<com.medtrail.android.CalendarView
     android:id="@+id/calendarView"
     android:layout_width="match_parent"
     android:layout_height="match_parent" />

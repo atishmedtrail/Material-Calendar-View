@@ -5,7 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.widget.Button;
 import android.widget.Toast;
 
-import com.applandeo.materialcalendarview.CalendarView;
+import com.medtrail.android.CalendarView;
 
 import java.util.Calendar;
 

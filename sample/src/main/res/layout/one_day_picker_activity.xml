@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context="com.applandeo.materialcalendarsampleapp.MainActivity">
 
-    <com.applandeo.materialcalendarview.CalendarView
+    <com.medtrail.android.CalendarView
         android:id="@+id/calendarView"
         android:layout_width="0dp"
         android:layout_height="wrap_content"

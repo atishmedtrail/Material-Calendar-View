@@ -7,7 +7,7 @@ import android.graphics.drawable.LayerDrawable;
 import androidx.core.content.ContextCompat;
 
 import com.applandeo.materialcalendarsampleapp.R;
-import com.applandeo.materialcalendarview.CalendarUtils;
+import com.medtrail.android.CalendarUtils;
 
 /**
  * Created by Mateusz Kornakiewicz on 02.08.2018.
